@@ -9,3 +9,5 @@ main = do
     print(var1 / var2)
     putStrLn "La multiplicacion es:"
     print(var1 * var2)
+    putStrLn "Secuencua o rango"
+    print [1..10]
